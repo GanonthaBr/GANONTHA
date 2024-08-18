@@ -1,5 +1,5 @@
 ![github banner (1)](https://github.com/GANONTHA/GANONTHA/assets/89134797/a5c7e122-b431-406c-9f0a-fde57539e606)
-- 👋 Hi, I’m @GANONTHA
+- 👋 Hi, I’m @Bruno
 - 👀 I’m interested in software development
 
 - 🌱 I am a frontend developer
